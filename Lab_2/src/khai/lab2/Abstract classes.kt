@@ -6,18 +6,8 @@ abstract class Bachelor {
 
     abstract fun study()
 
-    fun drink_something(what: String) {
+    open fun drink_something(what: String) {
         println("Drinking $what...")
-    }
-
-}
-
-abstract class Master(val speciality: String) {
-
-    abstract fun learn()
-
-    fun learn_now(discipline: String) {
-        println("Learning new discipline: $discipline...")
     }
 
 }
