@@ -1,5 +1,6 @@
 package khai.lab2
 
 fun main(args: Array<String>) {
-    println("Lab 2")
+    //Bachelor Exam Curiosity Control Person Bad
+    println("Lab 2\nVariant№36")
 }
