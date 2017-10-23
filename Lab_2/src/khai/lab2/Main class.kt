@@ -46,4 +46,3 @@ class Student constructor(override var specialization: String,override var mark:
 
 // 6. Constructor; Getter-Setter
 // 7. Object; Interface2
-// 8. Здать ЛР2
